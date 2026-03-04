@@ -1,5 +1,5 @@
 # README.md  
-## Notebook LM — Vida e Obras de São Tomás de Aquino
+## Notebook LM — Vida e Obras de São Tomás de Aquino ([link](https://notebooklm.google.com/notebook/1a651ae8-df27-46f3-8370-706c18f95331))
 
 Este notebook foi desenvolvido com o objetivo de produzir uma explicação estruturada, didática e tecnicamente fundamentada sobre a vida e a obra de São Tomás de Aquino. A construção do ambiente seguiu uma metodologia organizada em etapas, visando garantir coerência temática, profundidade analítica e padronização do comportamento do agente.
 
