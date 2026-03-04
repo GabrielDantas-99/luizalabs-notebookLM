@@ -31,7 +31,7 @@ As novas fontes relevantes foram incorporadas ao conjunto geral de referências,
 
 ---
 
-## 3. Geração do Vídeo Explicativo
+## 3. Geração do Vídeo Explicativo([link](https://drive.google.com/file/d/1mtNEtccVMxMaWsTtGhP9b0UcwsJyYpos/view?usp=sharing))
 
 Com o conjunto de fontes estabelecido, foi gerado um vídeo explicativo estruturado a partir das principais ideias recorrentes no material coletado. O vídeo foi desenvolvido com base nos seguintes critérios:
 
@@ -44,7 +44,7 @@ A produção buscou conectar os pontos entre as fontes, evitando mera repetiçã
 
 ---
 
-## 4. Construção do Mapa Mental
+## 4. Construção do Mapa Mental ([link](https://github.com/GabrielDantas-99/luizalabs-notebookLM/blob/main/NotebookLM%20Mind%20Map.png))
 
 Após a geração do vídeo, foi criado um mapa mental com base nas mesmas fontes utilizadas anteriormente. O objetivo foi:
 
@@ -57,7 +57,7 @@ O mapa mental funciona como ferramenta de apoio estrutural para navegação e co
 
 ---
 
-## 5. Configuração Comportamental do Agente (Guideline)
+## 5. Configuração Comportamental do Agente ([Guideline](https://github.com/GabrielDantas-99/luizalabs-notebookLM/blob/main/prompt-agent-behavior))
 
 Por fim, foi adicionada uma nota de configuração (guideline) com instruções específicas para padronizar o comportamento do agente dentro do notebook. Essa configuração define:
 
